@@ -20,8 +20,8 @@ bool is_jumping = false;
 // Pins
 const int jumpButton = 17;
 const int buzzerPin = 4; 
-const int greenLedPin = 16; // Green LED on GPIO 16
-const int redLedPin = 15;    // Red LED on GPIO 7
+const int greenLedPin = 16;
+const int redLedPin = 15;
 
 // Dino Sprites (Left & Right Leg)
 byte dino_l[8] = {
