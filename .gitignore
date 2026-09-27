@@ -1,0 +1,14 @@
+# PlatformIO build artifacts
+.pio/
+.clang_complete
+.gcc-flags.json
+
+# VS Code workspace settings
+.vscode/.browse.c_cpp_properties.json
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
